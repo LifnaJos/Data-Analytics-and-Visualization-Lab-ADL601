@@ -14,7 +14,7 @@ At the end of the course, students will be able to
 
 ## Lab Experiments
 | No | Name of Experiment | LO's |
-| -- | ------------------ | ---- |
+| -- | ------------------ | :----: |
 | 1. | Getting introduced to data analytics libraries in Python and R. | LO1 |
 | 2. | Simple Linear Regression in Python. | LO2 |
 | 3. | Multiple Linear Regression in Python | LO2 |

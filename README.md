@@ -1,7 +1,5 @@
 # [Course : Data Analytics Visualization Lab (ADL601)](https://drive.google.com/file/d/161F1ADE5tG6hq_4epCpiciHqv8opUMfl/view?usp=drive_link)
-Lab Instructor : Lifna C S
-
-Email : [lifna.cs@ves.ac.in](mailto:lifna.cs@ves.ac.in)
+Lab Instructor : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 
 ## Lab Outcomes (LO's)
 At the end of the course, students will be able to

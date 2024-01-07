@@ -31,7 +31,7 @@ At the end of the course, students will be able to
 
 ## References
 1. Data Analytics using R, Bharati Motwani, Wiley Publications
-2. Python for Data Analysis: 3rd Edition, WesMcKinney, Publisher(s): O'Reilly Media, Inc.
+2. [Python for Data Analysis: 3rd Edition, WesMcKinney, Publisher(s): O'Reilly Media, Inc.](https://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/Python-for-Data-Analysis.pdf)
 3. Better Data Visualizations A Guide for Scholars, Researchers, and Wonks, Jonathan Schwabish, Columbia University Press
 
 ## Useful Links

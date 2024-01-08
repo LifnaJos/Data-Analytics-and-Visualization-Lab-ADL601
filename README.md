@@ -39,4 +39,4 @@ At the end of the course, students will be able to
 4. [https://towardsdatascience.com/introduction-to-arima-for-time-series-forecasting-](https://towardsdatascience.com/introduction-to-arima-for-time-series-forecasting-)
 
 ## Acknowledgements
-* This material was prepared as a part of Course - **Data Analytics and Visualization Lab** offered by the **University of Mumbai** to the Third Year Students of Artifical Intelligence & Data Science** Engineering Branch.
+* This material was prepared as a part of the Course - **Data Analytics and Visualization Lab** offered by the  Department of Artificial Intelligence & Data Science, (VES Institute of Technology - An Autonomous Institute, Affiliated with the University of Mumbai) to the Third Year Artificial Intelligence & Data Science Students.

@@ -33,10 +33,12 @@ At the end of the course, students will be able to
 3. Better Data Visualizations A Guide for Scholars, Researchers, and Wonks, Jonathan Schwabish, Columbia University Press
 
 ## Useful Links
-1. [https://www.geeksforgeeks.org/data-visualization-with-python](https://www.geeksforgeeks.org/data-visualization-with-python)
-2. [https://www.coursera.org/specializations/data-science-python](https://www.coursera.org/specializations/data-science-python)
-3. [https://www.geeksforgeeks.org/data-visualization-in-r/](https://www.geeksforgeeks.org/data-visualization-in-r/)
-4. [https://towardsdatascience.com/introduction-to-arima-for-time-series-forecasting-](https://towardsdatascience.com/introduction-to-arima-for-time-series-forecasting-)
+1. [Three Things You C-an do to Make Your Data Tables More Visual By Jonathan Schwabish](https://cupblog.org/2021/03/16/three-things-you-can-do-to-make-your-data-tables-more-visual-by-jonathan-schwabish/)
+2. [Five Charts You’ve Never Used but Should By Jonathan Schwabish](https://cupblog.org/2021/01/04/five-charts-youve-never-used-but-should-by-jonathan-schwabish/)
+3. [https://www.geeksforgeeks.org/data-visualization-with-python](https://www.geeksforgeeks.org/data-visualization-with-python)
+4. [https://www.coursera.org/specializations/data-science-python](https://www.coursera.org/specializations/data-science-python)
+5. [https://www.geeksforgeeks.org/data-visualization-in-r/](https://www.geeksforgeeks.org/data-visualization-in-r/)
+6. [https://towardsdatascience.com/introduction-to-arima-for-time-series-forecasting-](https://towardsdatascience.com/introduction-to-arima-for-time-series-forecasting-)
 
 ## Acknowledgements
 * This material was prepared as a part of the Course - **Data Analytics and Visualization Lab** offered by the  Department of Artificial Intelligence & Data Science, (VES Institute of Technology - An Autonomous Institute, Affiliated with the University of Mumbai) to the Third Year Artificial Intelligence & Data Science Students.

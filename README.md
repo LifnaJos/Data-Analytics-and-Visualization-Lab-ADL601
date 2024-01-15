@@ -27,6 +27,55 @@ At the end of the course, students will be able to
 
 **Note** : $ - Newly added experiment to map LO4
 
+# Experiment - 1: Getting introduced to data analytics libraries in Python and R
+
+* Lab Objectives: To effectively use libraries for data analytics.
+
+* Lab Outcomes (LO): Explore various data analytics Libraries in R and Python. (LO1)
+
+## Task to be performed :
+1. Explore Top-10 Data Analytics Libraries in Python
+2. Explore Top-10 Data Analytics Libraries in R
+3. Perform simple experiments in the identified tools in Google Colab.
+
+## Tools & Libraries to be explored
+*Python Libraries:*
+1. [TensorFlow](https://www.tensorflow.org/)
+2. [NumPy](https://numpy.org/)
+3. [SciPy](https://scipy.org/)
+4. [Pandas](https://pandas.pydata.org/)
+5. [Keras](https://keras.io/)
+6. [scikit-learn](https://scikit-learn.org/stable/)
+7. [PyTorch]()
+8. [Scrapy]()
+9. [BeautifulSoup]()
+10. [PyBrain]()
+
+* R Libraries:
+1. dplyr
+2. tidyr
+3. readr
+4. stringr
+5. ggplot2
+6. lubridate
+7. jsonlite
+8. Shiny
+9. tseries 
+10. Prophet
+
+## Instructions :
+1. Identify the features and Applications of the libraries for performing Data Analytics
+2. Prepare a document with the Aim, Tasks performed, Program, Output, and Conclusion.
+   
+## Outcome :
+* Identified the Data Analytics Libraries in Python and R
+* Performed simple experiments with these libraries in Python and R
+
+# Online Resources
+* [Top Python Libraries for Data Science - Simpli Learn](https://www.simplilearn.com/top-python-libraries-for-data-science-article)
+* [Top Libraries in R for Data Science - Towards Data Science](https://towardsdatascience.com/top-r-libraries-for-data-science-9b24f658e243)
+
+
 ## References
 1. Data Analytics using R, Bharati Motwani, Wiley Publications
 2. [Python for Data Analysis: 3rd Edition, WesMcKinney, Publisher(s): O'Reilly Media, Inc.](https://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/Python-for-Data-Analysis.pdf)

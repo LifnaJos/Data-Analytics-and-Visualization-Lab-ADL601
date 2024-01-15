@@ -47,8 +47,8 @@ At the end of the course, students will be able to
 * Lab Outcomes (LO): Explore various data analytics Libraries in R and Python. (LO1)
 
 ## Task to be performed :
-1. Explore Top-5 Data Analytics Libraries in Python
-2. Explore Top-5 Data Analytics Libraries in R
+1. Explore Top-5 Data Analytics Libraries in Python (w.r.t Features & Applications)
+2. Explore Top-5 Data Analytics Libraries in R (w.r.t Features & Applications)
 3. Install 2 Libraries each for Python and R
 4. Perform simple experiments on the 2 identified libraries each for Python and R
 5. Prepare a document with the Aim, Tasks performed, Program, Output, and Conclusion.

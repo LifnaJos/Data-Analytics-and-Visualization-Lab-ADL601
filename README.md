@@ -54,29 +54,9 @@ At the end of the course, students will be able to
 5. Prepare a document with the Aim, Tasks performed, Program, Output, and Conclusion.
 
 ## Tools & Libraries to be explored
-*Python Libraries:*
-1. [TensorFlow](https://www.tensorflow.org/)
-2. [NumPy](https://numpy.org/)
-3. [SciPy](https://scipy.org/)
-4. [Pandas](https://pandas.pydata.org/)
-5. [Keras](https://keras.io/)
-6. [scikit-learn](https://scikit-learn.org/stable/)
-7. [PyTorch]()
-8. [Scrapy]()
-9. [BeautifulSoup]()
-10. [PyBrain]()
+*Python Libraries:* [TensorFlow](https://www.tensorflow.org/), [NumPy](https://numpy.org/), [SciPy](https://scipy.org/), [Pandas](https://pandas.pydata.org/), [Keras](https://keras.io/), [scikit-learn](https://scikit-learn.org/stable/), [PyTorch](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html), [Scrapy](https://www.zenrows.com/blog/scrapy-python#parse-html-content), [BeautifulSoup](https://realpython.com/beautiful-soup-web-scraper-python/), [PyBrain](https://www.tutorialspoint.com/pybrain/pybrain_quick_guide.htm)
 
-* R Libraries:
-1. [dplyr](https://www.listendata.com/2016/08/dplyr-tutorial.html)
-2. [tidyr](https://tidyr.tidyverse.org/)
-3. [readr](https://readr.tidyverse.org/)
-4. [stringr](https://cran.r-project.org/web/packages/stringr/vignettes/stringr.html)
-5. [ggplot2](https://r-statistics.co/Complete-Ggplot2-Tutorial-Part1-With-R-Code.html)
-6. [lubridate](https://cran.r-project.org/web/packages/lubridate/vignettes/lubridate.html)
-7. [jsonlite](https://cran.r-project.org/web/packages/jsonlite/vignettes/json-aaquickstart.html)
-8. [Shiny](https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html)
-9. [tseries](https://www.simplilearn.com/tutorials/data-science-tutorial/time-series-forecasting-in-r)
-10. [Prophet](https://medium.com/dropout-analytics/intro-to-prophet-r-7f650f86adc7)
+* R Libraries: [dplyr](https://www.listendata.com/2016/08/dplyr-tutorial.html), [tidyr](https://tidyr.tidyverse.org/), [readr](https://readr.tidyverse.org/), [stringr](https://cran.r-project.org/web/packages/stringr/vignettes/stringr.html), [ggplot2](https://r-statistics.co/Complete-Ggplot2-Tutorial-Part1-With-R-Code.html), [lubridate](https://cran.r-project.org/web/packages/lubridate/vignettes/lubridate.html), [jsonlite](https://cran.r-project.org/web/packages/jsonlite/vignettes/json-aaquickstart.html), [Shiny](https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html), [tseries](https://www.simplilearn.com/tutorials/data-science-tutorial/time-series-forecasting-in-r), [Prophet](https://medium.com/dropout-analytics/intro-to-prophet-r-7f650f86adc7)
 
 ## Outcome :
 * Identified the Data Analytics Libraries in Python and R

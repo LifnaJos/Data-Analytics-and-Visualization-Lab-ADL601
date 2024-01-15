@@ -27,6 +27,19 @@ At the end of the course, students will be able to
 
 **Note** : $ - Newly added experiment to map LO4
 
+## References
+1. Data Analytics using R, Bharati Motwani, Wiley Publications
+2. [Python for Data Analysis: 3rd Edition, WesMcKinney, Publisher(s): O'Reilly Media, Inc.](https://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/Python-for-Data-Analysis.pdf)
+3. Better Data Visualizations A Guide for Scholars, Researchers, and Wonks, Jonathan Schwabish, Columbia University Press
+
+## Useful Links
+1. [Three Things You C-an do to Make Your Data Tables More Visual By Jonathan Schwabish](https://cupblog.org/2021/03/16/three-things-you-can-do-to-make-your-data-tables-more-visual-by-jonathan-schwabish/)
+2. [Five Charts You’ve Never Used but Should By Jonathan Schwabish](https://cupblog.org/2021/01/04/five-charts-youve-never-used-but-should-by-jonathan-schwabish/)
+3. [https://www.geeksforgeeks.org/data-visualization-with-python](https://www.geeksforgeeks.org/data-visualization-with-python)
+4. [https://www.coursera.org/specializations/data-science-python](https://www.coursera.org/specializations/data-science-python)
+5. [https://www.geeksforgeeks.org/data-visualization-in-r/](https://www.geeksforgeeks.org/data-visualization-in-r/)
+6. [https://towardsdatascience.com/introduction-to-arima-for-time-series-forecasting-](https://towardsdatascience.com/introduction-to-arima-for-time-series-forecasting-)
+
 # Experiment - 1: Getting introduced to data analytics libraries in Python and R
 
 * Lab Objectives: To effectively use libraries for data analytics.
@@ -34,10 +47,11 @@ At the end of the course, students will be able to
 * Lab Outcomes (LO): Explore various data analytics Libraries in R and Python. (LO1)
 
 ## Task to be performed :
-1. Explore Top-10 Data Analytics Libraries in Python
-2. Explore Top-10 Data Analytics Libraries in R
-3. Perform simple experiments in the identified tools in Google Colab.
-4. Prepare a document with the Aim, Tasks performed, Program, Output, and Conclusion.
+1. Explore Top-5 Data Analytics Libraries in Python
+2. Explore Top-5 Data Analytics Libraries in R
+3. Install 2 Libraries each for Python and R
+4. Perform simple experiments on the 2 identified libraries each for Python and R
+5. Prepare a document with the Aim, Tasks performed, Program, Output, and Conclusion.
 
 ## Tools & Libraries to be explored
 *Python Libraries:*
@@ -53,16 +67,16 @@ At the end of the course, students will be able to
 10. [PyBrain]()
 
 * R Libraries:
-1. [dplyr](https://www.rdocumentation.org/packages/dplyr/versions/1.0.10)
-2. [tidyr]()
-3. [readr]()
-4. stringr
-5. [ggplot2](https://www.rdocumentation.org/packages/ggplot2/versions/3.1.0)
-6. [lubridate](https://www.rdocumentation.org/packages/lubridate/versions/1.7.4)
-7. jsonlite
-8. Shiny
-9. tseries 
-10. Prophet
+1. [dplyr](https://www.listendata.com/2016/08/dplyr-tutorial.html)
+2. [tidyr](https://tidyr.tidyverse.org/)
+3. [readr](https://readr.tidyverse.org/)
+4. [stringr](https://cran.r-project.org/web/packages/stringr/vignettes/stringr.html)
+5. [ggplot2](https://r-statistics.co/Complete-Ggplot2-Tutorial-Part1-With-R-Code.html)
+6. [lubridate](https://cran.r-project.org/web/packages/lubridate/vignettes/lubridate.html)
+7. [jsonlite](https://cran.r-project.org/web/packages/jsonlite/vignettes/json-aaquickstart.html)
+8. [Shiny](https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html)
+9. [tseries](https://www.simplilearn.com/tutorials/data-science-tutorial/time-series-forecasting-in-r)
+10. [Prophet](https://medium.com/dropout-analytics/intro-to-prophet-r-7f650f86adc7)
 
 ## Outcome :
 * Identified the Data Analytics Libraries in Python and R
@@ -71,20 +85,6 @@ At the end of the course, students will be able to
 # Online Resources
 * [Top Python Libraries for Data Science - Simpli Learn](https://www.simplilearn.com/top-python-libraries-for-data-science-article)
 * [Top Libraries in R for Data Science - Towards Data Science](https://towardsdatascience.com/top-r-libraries-for-data-science-9b24f658e243)
-
-
-## References
-1. Data Analytics using R, Bharati Motwani, Wiley Publications
-2. [Python for Data Analysis: 3rd Edition, WesMcKinney, Publisher(s): O'Reilly Media, Inc.](https://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/Python-for-Data-Analysis.pdf)
-3. Better Data Visualizations A Guide for Scholars, Researchers, and Wonks, Jonathan Schwabish, Columbia University Press
-
-## Useful Links
-1. [Three Things You C-an do to Make Your Data Tables More Visual By Jonathan Schwabish](https://cupblog.org/2021/03/16/three-things-you-can-do-to-make-your-data-tables-more-visual-by-jonathan-schwabish/)
-2. [Five Charts You’ve Never Used but Should By Jonathan Schwabish](https://cupblog.org/2021/01/04/five-charts-youve-never-used-but-should-by-jonathan-schwabish/)
-3. [https://www.geeksforgeeks.org/data-visualization-with-python](https://www.geeksforgeeks.org/data-visualization-with-python)
-4. [https://www.coursera.org/specializations/data-science-python](https://www.coursera.org/specializations/data-science-python)
-5. [https://www.geeksforgeeks.org/data-visualization-in-r/](https://www.geeksforgeeks.org/data-visualization-in-r/)
-6. [https://towardsdatascience.com/introduction-to-arima-for-time-series-forecasting-](https://towardsdatascience.com/introduction-to-arima-for-time-series-forecasting-)
 
 ## Acknowledgements
 * This material was prepared as a part of the Course - **Data Analytics and Visualization Lab** offered by the  Department of Artificial Intelligence & Data Science, (VES Institute of Technology - An Autonomous Institute, Affiliated with the University of Mumbai) to the Third Year Artificial Intelligence & Data Science Students.

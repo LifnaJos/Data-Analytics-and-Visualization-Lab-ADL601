@@ -63,13 +63,10 @@ At the end of the course, students will be able to
 9. tseries 
 10. Prophet
 
-## Instructions :
-1. Identify the features and Applications of the libraries for performing Data Analytics
-2. Prepare a document with the Aim, Tasks performed, Program, Output, and Conclusion.
-   
 ## Outcome :
 * Identified the Data Analytics Libraries in Python and R
 * Performed simple experiments with these libraries in Python and R
+* Prepare a document with the Aim, Tasks performed, Program, Output, and Conclusion.
 
 # Online Resources
 * [Top Python Libraries for Data Science - Simpli Learn](https://www.simplilearn.com/top-python-libraries-for-data-science-article)

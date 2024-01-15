@@ -13,7 +13,7 @@ At the end of the course, students will be able to
 ## Lab Experiments
 | No | Name of Experiment | LO's |
 | :--: | ------------------ | :----: |
-| 1. | Getting introduced to data analytics libraries in Python and R. | LO1 |
+| 1. | [Getting introduced to data analytics libraries in Python and R](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/Lab_Instructions/Experiment_1.md) | LO1 |
 | 2. | Simple Linear Regression in Python. | LO2 |
 | 3. | Multiple Linear Regression in Python | LO2 |
 | 4. | Time Series Analysis in Python | LO3 |

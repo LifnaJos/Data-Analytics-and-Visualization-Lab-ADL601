@@ -37,6 +37,7 @@ At the end of the course, students will be able to
 1. Explore Top-10 Data Analytics Libraries in Python
 2. Explore Top-10 Data Analytics Libraries in R
 3. Perform simple experiments in the identified tools in Google Colab.
+4. Prepare a document with the Aim, Tasks performed, Program, Output, and Conclusion.
 
 ## Tools & Libraries to be explored
 *Python Libraries:*
@@ -52,12 +53,12 @@ At the end of the course, students will be able to
 10. [PyBrain]()
 
 * R Libraries:
-1. dplyr
-2. tidyr
-3. readr
+1. [dplyr](https://www.rdocumentation.org/packages/dplyr/versions/1.0.10)
+2. [tidyr]()
+3. [readr]()
 4. stringr
-5. ggplot2
-6. lubridate
+5. [ggplot2](https://www.rdocumentation.org/packages/ggplot2/versions/3.1.0)
+6. [lubridate](https://www.rdocumentation.org/packages/lubridate/versions/1.7.4)
 7. jsonlite
 8. Shiny
 9. tseries 
@@ -66,7 +67,6 @@ At the end of the course, students will be able to
 ## Outcome :
 * Identified the Data Analytics Libraries in Python and R
 * Performed simple experiments with these libraries in Python and R
-* Prepare a document with the Aim, Tasks performed, Program, Output, and Conclusion.
 
 # Online Resources
 * [Top Python Libraries for Data Science - Simpli Learn](https://www.simplilearn.com/top-python-libraries-for-data-science-article)

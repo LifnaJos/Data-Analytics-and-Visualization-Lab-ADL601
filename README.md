@@ -95,7 +95,7 @@ At the end of the course, students will be able to
 1. What is Linear Regression?
 2. Write the equation for Simple Linear Regression.
 3. Problem Statement : The iodine value (x) is the amount of iodine necessary to saturate a sample of 100 g of oil. Fit the simple linear regression model for the following data
-   ![SLR_Problem]()
+   ![SLR_Problem](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/Experiments/SLR_Problem.png)
 ## Outcome :
 * Understood the concept of Simple Linear Regression
 * Explored the packages in Python and R

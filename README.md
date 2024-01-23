@@ -71,17 +71,21 @@ At the end of the course, students will be able to
 ## Task to be performed :
 1. List the packages to be used for Simple Linear Regression in Python
 2. Download the dataset from UCI Repository / Kaggle
+
    -- Load data into Google Colab
+
    -- Display the summary of the dataset
-3. Check whether the data meets the assumptions
--- Normality : Check whether the dependent variable follows a normal distribution
--- Lineartiy : Check the relationship between the independent and dependent variable
-4. Perform Linear Regression Analysis using the identified package
-5. Visualize the results with a graph
+4. Check whether the data meets the assumptions
+
+   -- Normality : Check whether the dependent variable follows a normal distribution
+
+   -- Lineartiy : Check the relationship between the independent and dependent variable
+5. Perform Linear Regression Analysis using the identified package
+6. Visualize the results with a graph
 -- Draw the Simple Linear Regression line to the plotted data
 -- Add the equation for the Regression Line on the graph
-6. Repeat the steps 2 to 5 using R libraries
-7. Prepare a document with the Aim, Tasks performed, Program, Output, and Conclusion.
+7. Repeat the steps 2 to 5 using R libraries
+8. Prepare a document with the Aim, Tasks performed, Program, Output, and Conclusion.
 
 ## Tools & Libraries to be explored
 * Python Libraries: scikit-learn, matplotlib, numpy, pandas
@@ -89,7 +93,7 @@ At the end of the course, students will be able to
     
 ## Outcome :
 * Understood the concept of Simple Linear Regression
-* Explored the packages 
+* Explored the packages in Python and R
 * Performed Simple Linear Regression using the Libraries in Python and R
 
 # Online Resources

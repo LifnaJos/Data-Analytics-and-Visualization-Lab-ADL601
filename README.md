@@ -85,7 +85,8 @@ At the end of the course, students will be able to
 -- Draw the Simple Linear Regression line to the plotted data
 -- Add the equation for the Regression Line on the graph
 7. Repeat the steps 2 to 5 using R libraries
-8. Prepare a document with the Aim, Tasks performed, Program, Output, and Conclusion.
+8. Prepare a Colab Notebook with the Aim, Tasks performed, Program, Output, and Conclusion and upload the Notebook in your Github Repositiry.
+9. Prepare a handwritten wrtieup with Aim, Theory and Conclusion.
 
 ## Tools & Libraries to be explored
 * Python Libraries: scikit-learn, matplotlib, numpy, pandas
@@ -96,6 +97,7 @@ At the end of the course, students will be able to
 2. Write the equation for Simple Linear Regression.
 3. Problem Statement : The iodine value (x) is the amount of iodine necessary to saturate a sample of 100 g of oil. Fit the simple linear regression model for the following data
    ![SLR_Problem](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/Experiments/SLR_Problem.png)
+
 ## Outcome :
 * Understood the concept of Simple Linear Regression
 * Explored the packages in Python and R

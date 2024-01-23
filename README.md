@@ -42,8 +42,6 @@ At the end of the course, students will be able to
 
 # Experiment - 1: Getting introduced to data analytics libraries in Python and R
 
-* Lab Objectives: To effectively use libraries for data analytics.
-
 * Lab Outcomes (LO): Explore various data analytics Libraries in R and Python. (LO1)
 
 ## Task to be performed :
@@ -65,6 +63,38 @@ At the end of the course, students will be able to
 # Online Resources
 * [Top Python Libraries for Data Science - Simpli Learn](https://www.simplilearn.com/top-python-libraries-for-data-science-article)
 * [Top Libraries in R for Data Science - Towards Data Science](https://towardsdatascience.com/top-r-libraries-for-data-science-9b24f658e243)
+
+# Experiment - 2: Simple Linear Regression in Python
+
+* Lab Outcomes (LO): Implement various Regression techniques for prediction. (LO2)
+
+## Task to be performed :
+1. List the packages to be used for Simple Linear Regression in Python
+2. Download the dataset from UCI Repository / Kaggle
+   -- Load data into Google Colab
+   -- Display the summary of the dataset
+3. Check whether the data meets the assumptions
+-- Normality : Check whether the dependent variable follows a normal distribution
+-- Lineartiy : Check the relationship between the independent and dependent variable
+4. Perform Linear Regression Analysis using the identified package
+5. Visualize the results with a graph
+-- Draw the Simple Linear Regression line to the plotted data
+-- Add the equation for the Regression Line on the graph
+6. Repeat the steps 2 to 5 using R libraries
+7. Prepare a document with the Aim, Tasks performed, Program, Output, and Conclusion.
+
+## Tools & Libraries to be explored
+* Python Libraries: scikit-learn, matplotlib, numpy, pandas
+* R Libraries: lm, ggplot2, dplyr, broom, ggubr
+    
+## Outcome :
+* Understood the concept of Simple Linear Regression
+* Explored the packages 
+* Performed Simple Linear Regression using the Libraries in Python and R
+
+# Online Resources
+* [Linear Regression in Python](https://realpython.com/linear-regression-in-python/)
+* [Linear Regression in R](https://www.scribbr.com/statistics/linear-regression-in-r/)
 
 ## Acknowledgements
 * This material was prepared as a part of the Course - **Data Analytics and Visualization Lab** offered by the  Department of Artificial Intelligence & Data Science, (VES Institute of Technology - An Autonomous Institute, Affiliated with the University of Mumbai) to the Third Year Artificial Intelligence & Data Science Students.

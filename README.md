@@ -90,7 +90,12 @@ At the end of the course, students will be able to
 ## Tools & Libraries to be explored
 * Python Libraries: scikit-learn, matplotlib, numpy, pandas
 * R Libraries: lm, ggplot2, dplyr, broom, ggubr
-    
+
+## Theory to be written:
+1. What is Linear Regression?
+2. Write the equation for Simple Linear Regression.
+3. Problem Statement : The iodine value (x) is the amount of iodine necessary to saturate a sample of 100 g of oil. Fit the simple linear regression model for the following data
+   ![SLR_Problem]()
 ## Outcome :
 * Understood the concept of Simple Linear Regression
 * Explored the packages in Python and R
@@ -99,6 +104,7 @@ At the end of the course, students will be able to
 # Online Resources
 * [Linear Regression in Python](https://realpython.com/linear-regression-in-python/)
 * [Linear Regression in R](https://www.scribbr.com/statistics/linear-regression-in-r/)
+* [R packages for Regression](https://subscription.packtpub.com/book/data/9781788627306/1/ch01lvl1sec18/r-packages-for-regression)
 
 ## Acknowledgements
 * This material was prepared as a part of the Course - **Data Analytics and Visualization Lab** offered by the  Department of Artificial Intelligence & Data Science, (VES Institute of Technology - An Autonomous Institute, Affiliated with the University of Mumbai) to the Third Year Artificial Intelligence & Data Science Students.

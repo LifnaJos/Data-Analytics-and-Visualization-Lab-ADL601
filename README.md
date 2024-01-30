@@ -119,8 +119,6 @@ At the end of the course, students will be able to
 4. Get the values : Coefficient of Determination, Intercept and Coefficients
 5. Predict the response
 6. Visualize the results with a graph
--- Draw the Simple Linear Regression line to the plotted data
--- Add the equation for the Regression Line on the graph
 7. Repeat the steps 2 to 6 using R libraries
 8. Prepare a Colab Notebook with the Aim, Tasks performed, Program, Output, and Conclusion and upload the Notebook in your Github Repositiry.
 9. Prepare a handwritten wrtieup with Aim, Theory and Conclusion.

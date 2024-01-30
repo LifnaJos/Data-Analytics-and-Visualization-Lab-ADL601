@@ -81,8 +81,6 @@ At the end of the course, students will be able to
    -- Lineartiy : Check the relationship between the independent and dependent variable
 4. Perform Linear Regression Analysis using the identified package
 5. Visualize the results with a graph
--- Draw the Simple Linear Regression line to the plotted data
--- Add the equation for the Regression Line on the graph
 6. Repeat the steps 2 to 5 using R libraries
 7. Prepare a Colab Notebook with the Aim, Tasks performed, Program, Output, and Conclusion and upload the Notebook in your Github Repositiry.
 8. Prepare a handwritten wrtieup with Aim, Theory and Conclusion.

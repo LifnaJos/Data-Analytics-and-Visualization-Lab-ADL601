@@ -14,8 +14,8 @@ At the end of the course, students will be able to
 | No | Name of Experiment | LO's |
 | :--: | ------------------ | :----: |
 | 1. | [Getting introduced to data analytics libraries in Python and R](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/README.md#experiment---1-getting-introduced-to-data-analytics-libraries-in-python-and-r) | LO1 |
-| 2. | [Simple Linear Regression in Python.](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/README.md#experiment---2-simple-linear-regression-in-python) | LO2 |
-| 3. | [Multiple Linear Regression in Python](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/README.md#experiment---3-multiple-linear-regression-in-python) | LO2 |
+| 2. | [Simple Linear Regression in Python and R.](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/README.md#experiment---2-simple-linear-regression-in-python) | LO2 |
+| 3. | [Multiple Linear Regression in Python and R.](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/README.md#experiment---3-multiple-linear-regression-in-python) | LO2 |
 | 4. | Time Series Analysis in Python | LO3 |
 | 5. | Implementation of ARIMA model in python | LO3 |
 | 6. | Implementation of Time series Decomposition and ACF and PACF | LO3 |
@@ -64,7 +64,7 @@ At the end of the course, students will be able to
 * [Top Python Libraries for Data Science - Simpli Learn](https://www.simplilearn.com/top-python-libraries-for-data-science-article)
 * [Top Libraries in R for Data Science - Towards Data Science](https://towardsdatascience.com/top-r-libraries-for-data-science-9b24f658e243)
 
-# Experiment - 2: Simple Linear Regression in Python
+# Experiment - 2: Simple Linear Regression in Python and R
 ## Lab Outcomes (LO): 
 * Implement various Regression techniques for prediction. (LO2)
 ## Task to be performed :
@@ -105,7 +105,7 @@ At the end of the course, students will be able to
 * [Linear Regression in R](https://www.scribbr.com/statistics/linear-regression-in-r/)
 * [R packages for Regression](https://subscription.packtpub.com/book/data/9781788627306/1/ch01lvl1sec18/r-packages-for-regression)
 
-# Experiment - 3: Multiple Linear Regression in Python
+# Experiment - 3: Multiple Linear Regression in Python and R
 ## Lab Outcomes (LO): 
 * Implement various Regression techniques for prediction. (LO2)
 ## Task to be performed :

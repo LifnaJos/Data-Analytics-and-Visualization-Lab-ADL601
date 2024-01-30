@@ -65,28 +65,27 @@ At the end of the course, students will be able to
 * [Top Libraries in R for Data Science - Towards Data Science](https://towardsdatascience.com/top-r-libraries-for-data-science-9b24f658e243)
 
 # Experiment - 2: Simple Linear Regression in Python
-
-* Lab Outcomes (LO): Implement various Regression techniques for prediction. (LO2)
-
+## Lab Outcomes (LO): 
+* Implement various Regression techniques for prediction. (LO2)
 ## Task to be performed :
 1. List the packages to be used for Simple Linear Regression in Python
-2. Download the dataset from UCI Repository / Kaggle
+2. Download the dataset from UCI Repository / Kaggle Dataset
 
    -- Load data into Google Colab
 
    -- Display the summary of the dataset
-4. Check whether the data meets the assumptions
+3. Check whether the data meets the assumptions
 
    -- Normality : Check whether the dependent variable follows a normal distribution
 
    -- Lineartiy : Check the relationship between the independent and dependent variable
-5. Perform Linear Regression Analysis using the identified package
-6. Visualize the results with a graph
+4. Perform Linear Regression Analysis using the identified package
+5. Visualize the results with a graph
 -- Draw the Simple Linear Regression line to the plotted data
 -- Add the equation for the Regression Line on the graph
-7. Repeat the steps 2 to 5 using R libraries
-8. Prepare a Colab Notebook with the Aim, Tasks performed, Program, Output, and Conclusion and upload the Notebook in your Github Repositiry.
-9. Prepare a handwritten wrtieup with Aim, Theory and Conclusion.
+6. Repeat the steps 2 to 5 using R libraries
+7. Prepare a Colab Notebook with the Aim, Tasks performed, Program, Output, and Conclusion and upload the Notebook in your Github Repositiry.
+8. Prepare a handwritten wrtieup with Aim, Theory and Conclusion.
 
 ## Tools & Libraries to be explored
 * Python Libraries: scikit-learn, matplotlib, numpy, pandas
@@ -107,6 +106,46 @@ At the end of the course, students will be able to
 * [Linear Regression in Python](https://realpython.com/linear-regression-in-python/)
 * [Linear Regression in R](https://www.scribbr.com/statistics/linear-regression-in-r/)
 * [R packages for Regression](https://subscription.packtpub.com/book/data/9781788627306/1/ch01lvl1sec18/r-packages-for-regression)
+
+# Experiment - 3: Multiple Linear Regression in Python
+## Lab Outcomes (LO): 
+* Implement various Regression techniques for prediction. (LO2)
+## Task to be performed :
+1. List the packages to be used for Multiple Linear Regression in Python
+2. Download the dataset from UCI Repository / Kaggle
+
+   -- Load data into Google Colab
+
+   -- Display the summary of the dataset
+3. Create a model and fit it
+4. Get the values : Coefficient of Determination, Intercept and Coefficients
+5. Predict the response
+6. Visualize the results with a graph
+-- Draw the Simple Linear Regression line to the plotted data
+-- Add the equation for the Regression Line on the graph
+7. Repeat the steps 2 to 6 using R libraries
+8. Prepare a Colab Notebook with the Aim, Tasks performed, Program, Output, and Conclusion and upload the Notebook in your Github Repositiry.
+9. Prepare a handwritten wrtieup with Aim, Theory and Conclusion.
+
+## Tools & Libraries to be explored
+* Python Libraries: scikit-learn, matplotlib, numpy, pandas
+* R Libraries: lm, ggplot2, dplyr, broom, ggubr
+
+## Theory to be written:
+1. Why do we need to study Multiple Linear Regression?
+2. Write the equation for Multiple Linear Regression.
+3. Problem Statement : 
+
+## Outcome :
+* Understood the concept of Multiple Linear Regression
+* Explored the packages in Python and R
+* Performed Multiple Linear Regression using the Libraries in Python and R
+
+# Online Resources
+* [Multiple Linear Regression in Python](https://medium.com/machine-learning-with-python/multiple-linear-regression-implementation-in-python-2de9b303fc0c#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6Ijg1ZTU1MTA3NDY2YjdlMjk4MzYxOTljNThjNzU4MWY1YjkyM2JlNDQiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTY5OTk1OTExNjUwODAzMTk4MTMiLCJoZCI6InZlcy5hYy5pbiIsImVtYWlsIjoibGlmbmEuY3NAdmVzLmFjLmluIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsIm5iZiI6MTcwNjU4NTUxNiwibmFtZSI6IkxpZm5hIEMgUyIsInBpY3R1cmUiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS9BQ2c4b2NLbTgzQUMxckdISjg3NFk0eWpCb0NPWGlETjNqVVBBdGVDLU1iWUpaX29vWHc9czk2LWMiLCJnaXZlbl9uYW1lIjoiTGlmbmEiLCJmYW1pbHlfbmFtZSI6IkMgUyIsImxvY2FsZSI6ImVuIiwiaWF0IjoxNzA2NTg1ODE2LCJleHAiOjE3MDY1ODk0MTYsImp0aSI6IjE4ZWFlYWEzOGUxOTM5NjQ3ZjRlZjQ1Njg1OTlkNjc1MmFhMDYxNTEifQ.xbvxkBvYaEsuP4xpkNN20LbuBgapMr-vEO71c0bXGetEgN6eXY21QaqPjgkL1zdvYoSM71QVs_wPm79KqgQYaIp_qRcvE9X6GbeY9GPEZb_FiADPSPB2uN8Nf_hALprH0kuP-zBhn0KDBJL3eP16cyrVYg668zeN953QdRXsTkiF-7_SZ08GeiJmKfeQ_p5s2TN-4-kCS3JzPiFMAsuojhz4VJxbPfzMnMgU2eU_rTojmMfD6eTvcDvUrzq_LVL7eDnIvQM9bUW_jt49wcWnBtmXZM4ZpzsmOaQCINDAtsxycv16z4dJO93fclU_YTkMwdUjShGO7uKKINqNbKPK5w)
+* [Multiple Linear Regression in Python](https://www.geeksforgeeks.org/ml-multiple-linear-regression-using-python/)
+* [Multiple Linear Regression in R](https://www.datacamp.com/tutorial/multiple-linear-regression-r-tutorial)
+* [R packages for Regression](https://subscription.packtpub.com/book/data/9781788627306/1/ch01lvl1sec18/r-packages-for-regression3)
 
 ## Acknowledgements
 * This material was prepared as a part of the Course - **Data Analytics and Visualization Lab** offered by the  Department of Artificial Intelligence & Data Science, (VES Institute of Technology - An Autonomous Institute, Affiliated with the University of Mumbai) to the Third Year Artificial Intelligence & Data Science Students.

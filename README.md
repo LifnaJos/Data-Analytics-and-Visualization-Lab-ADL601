@@ -130,7 +130,8 @@ At the end of the course, students will be able to
 ## Theory to be written:
 1. Why do we need to study Multiple Linear Regression?
 2. Write the equation for Multiple Linear Regression.
-3. Problem Statement : 
+3. Problem Statement :
+   ![MLR Problem](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/Experiments/MLR_problem.png)
 
 ## Outcome :
 * Understood the concept of Multiple Linear Regression

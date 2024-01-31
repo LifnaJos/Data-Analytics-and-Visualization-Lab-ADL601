@@ -14,7 +14,7 @@ At the end of the course, students will be able to
 | No | Name of Experiment | LO's |
 | :--: | ------------------ | :----: |
 | 1. | [Getting introduced to data analytics libraries in Python and R](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/README.md#experiment---1-getting-introduced-to-data-analytics-libraries-in-python-and-r) | LO1 |
-| 2. | [Simple Linear Regression in Python and R.](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/README.md#experiment---2-simple-linear-regression-in-python) | LO2 |
+| 2. | [Simple Linear Regression in Python and R.](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/README.md#experiment---2-simple-linear-regression-in-python-and-r) | LO2 |
 | 3. | [Multiple Linear Regression in Python and R.](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/README.md#experiment---3-multiple-linear-regression-in-python-and-r) | LO2 |
 | 4. | Time Series Analysis in Python | LO3 |
 | 5. | Implementation of ARIMA model in python | LO3 |

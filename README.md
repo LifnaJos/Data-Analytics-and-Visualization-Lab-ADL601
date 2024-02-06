@@ -138,6 +138,10 @@ At the end of the course, students will be able to
 * Explored the packages in Python and R
 * Performed Multiple Linear Regression using the Libraries in Python and R
 
+## Online REsources
+* [Multiple Linear REgression using MAtplotlib](https://saturncloud.io/blog/how-to-plot-for-multiple-linear-regression-model-using-matplotlib/)
+* [How to plot MLR in Python](https://www.javatpoint.com/how-to-plot-multiple-linear-regression-in-python)
+
 # Experiment - 11 : Data Visualization using Python and R Libraries
 ## Lab Outcomes (LO): 
 * Implement visualization techniques to given data sets using R  (LO5)

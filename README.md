@@ -23,7 +23,7 @@ At the end of the course, students will be able to
 | 8. | Set Up a D3.js Environment, Select Elements in D3, Modify Elements in D3,Data Loading in D3 | LO5, LO6 |
 | 9. | Create a World Map with d3.js |LO5, LO6 | 
 | 10. | Event Handling with D3.js | LO5, LO6 |
-| 11. | Two visualization experiments in python using different Libraries. | LO5, LO6 |
+| 11. | Data Visualization using Python and R Libraries. | LO5, LO6 |
 
 **Note** : $ - Newly added experiment to map LO4
 
@@ -138,11 +138,32 @@ At the end of the course, students will be able to
 * Explored the packages in Python and R
 * Performed Multiple Linear Regression using the Libraries in Python and R
 
+# Experiment - 11 : Data Visualization using Python and R Libraries
+## Lab Outcomes (LO): 
+* Implement visualization techniques to given data sets using R  (LO5)
+* Implement visualization techniques to given data sets using Python (LO6)
+## Task to be performed :
+1. Identify 5 Python and R Libraries for Data Visualization.
+2. Prepare a brief summary about their features and applications.
+3. Perform simple experiments on 2 Libraries each for Python & R
+4. Prepare a Colab Notebook with the Aim, Tasks performed, Program, Output, and Conclusion and upload the Notebook in your Github Repositiry.
+5. Prepare a handwritten wrtieup with Aim, Theory and Conclusion.
+
+## Tools & Libraries to be explored
+* Python Libraries: matplotlib, seaborn, plotly, geoplotlib, folium
+* R Libraries: ggplot2, Lattice, RGL, RColorBrewer, Leaflet
+
+## Theory to be written:
+1. Enlist the top 5 Python Libraries for Data Visualization.
+2. Enlist the top 5 R Libraries for Data Visualization.
+
+## Outcome :
+* Identified the Data Visualization Libraries in Python and R
+* Performed simple experiments with these libraries in Python and R
+
 # Online Resources
-* [Multiple Linear Regression in Python](https://saturncloud.io/blog/how-to-plot-for-multiple-linear-regression-model-using-matplotlib/)
-* [Multiple Linear Regression in Python](https://www.geeksforgeeks.org/ml-multiple-linear-regression-using-python/)
-* [Multiple Linear Regression in R](https://www.datacamp.com/tutorial/multiple-linear-regression-r-tutorial)
-* [R packages for Regression](https://subscription.packtpub.com/book/data/9781788627306/1/ch01lvl1sec18/r-packages-for-regression3)
+* [R - Data Visualization Libraries](https://mode.com/blog/r-data-visualization-packages)
+* [Python - Data Visualization Libraries](https://mode.com/blog/python-data-visualization-libraries)
 
 ## Acknowledgements
 * This material was prepared as a part of the Course - **Data Analytics and Visualization Lab** offered by the  Department of Artificial Intelligence & Data Science, (VES Institute of Technology - An Autonomous Institute, Affiliated with the University of Mumbai) to the Third Year Artificial Intelligence & Data Science Students.

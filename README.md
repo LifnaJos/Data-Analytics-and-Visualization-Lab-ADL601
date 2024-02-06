@@ -15,7 +15,7 @@ At the end of the course, students will be able to
 | :--: | ------------------ | :----: |
 | 1. | [Getting introduced to data analytics libraries in Python and R](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/DAV_Exp_1_Exploring_Data_Analytics_Python_R.ipynb) | LO1 |
 | 2. | [Simple Linear Regression in Python and R.](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/DAV_Exp_2_Simple_Linear_Regression_Python_R.ipynb) | LO2 |
-| 3. | [Multiple Linear Regression in Python and R.](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/README.md#experiment---3-multiple-linear-regression-in-python-and-r) | LO2 |
+| 3. | [Multiple Linear Regression in Python and R.](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/DAV_Exp_3_Multiple_Linear_Regression_Python_R.ipynb) | LO2 |
 | 4. | Time Series Analysis in Python | LO3 |
 | 5. | Implementation of ARIMA model in python | LO3 |
 | 6. | Implementation of Time series Decomposition and ACF and PACF | LO3 |

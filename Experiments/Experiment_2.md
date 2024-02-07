@@ -22,16 +22,21 @@
 * R Libraries: lm, ggplot2, dplyr, broom, ggubr
 
 ## Theory to be written:
-1. Why do we need to study Multiple Linear Regression?
-2. Write the equation for Multiple Linear Regression.
-3. **Solve** : The following measurements have been obtained in a study. It is expected that the response variable y be described by the independent variables x1 and x2. Calculate the parameter estimates bo, b1 and b2.   
-   ![SLR Problem](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/Experiments/SLR_problem.png)
+1. Why do we need to study Simple Linear Regression?
+2. Write the equation for Simple Linear Regression.
+3. **Solve**: The following measurements have been obtained in a study. It is expected that the response variable y be described by the independent variables x1 and x2. Calculate the parameter estimates bo, b1.   
+   ![SLR Problem](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/Experiments/SLR_Problem.png)
 
 ## Outcome :
-* Understood the concept of Multiple Linear Regression
+* Understood the concept of Simple Linear Regression
 * Explored the packages in Python and R
-* Performed Multiple Linear Regression using the Libraries in Python and R
+* Performed Simple Linear Regression using the Libraries in Python and R
 
-## Online REsources
-* [Multiple Linear REgression using MAtplotlib](https://saturncloud.io/blog/how-to-plot-for-multiple-linear-regression-model-using-matplotlib/)
-* [How to plot MLR in Python](https://www.javatpoint.com/how-to-plot-multiple-linear-regression-in-python)
+## Online Resources
+* [Simple Linear Regression - Medium](https://medium.com/@shuv.sdr/simple-linear-regression-in-python-a0069b325bf8)
+* [Linear Regression in Python - Real Python](https://realpython.com/linear-regression-in-python/)
+* [Linear Regression - W3 Schools](https://www.w3schools.com/python/python_ml_linear_regression.asp)
+* [Simple Linear Regression using Python- Simon Fraser University, Cananda](https://www.sfu.ca/~mjbrydon/tutorials/BAinPy/09_regression.html)
+* [Simple Linear Regression in R- Scribbr](https://www.scribbr.com/statistics/linear-regression-in-r/)
+* [Simple Linear REgression in R - Datacamp](https://www.datacamp.com/tutorial/linear-regression-R)
+* [Simple Linear Regression](http://www.sthda.com/english/articles/40-regression-analysis/167-simple-linear-regression-in-r/)

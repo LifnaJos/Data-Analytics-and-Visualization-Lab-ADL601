@@ -1,7 +1,8 @@
 # Experiment - 11: Explore Data Visualization libraries in Python and R
 
 ## Lab Outcomes (LO):
-
+- Implement visualization techniques to given data sets using R. (LO5)
+- Implement visualization techniques to given data sets using Python. (LO6)
 
 ## Task to be performed :
 1. Explore Top-5 Data Visualization Libraries in Python (w.r.t Features & Applications)

@@ -23,7 +23,7 @@ At the end of the course, students will be able to
 | 8. | Set Up a D3.js Environment, Select Elements in D3, Modify Elements in D3,Data Loading in D3 | LO5, LO6 |
 | 9. | Create a World Map with d3.js |LO5, LO6 | 
 | 10. | Event Handling with D3.js | LO5, LO6 |
-| 11. | [Data Visualization using Python and R Libraries.](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/DAV_Exp_11_Data_Visualization_Libraries_Python_R.ipynb) | LO5, LO6 |
+| 11. | [Data Visualization using Python and R Libraries.](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/Experiments/Experiment_11.md#experiment---11-explore-data-visualization-libraries-in-python-and-r) | LO5, LO6 |
 
 **Note** : $ - Newly added experiment to map LO4
 

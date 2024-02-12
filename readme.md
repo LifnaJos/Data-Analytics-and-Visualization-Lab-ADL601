@@ -13,9 +13,9 @@ At the end of the course, students will be able to
 ## Lab Experiments
 | No | Name of Experiment | LO's |
 | :--: | ------------------ | :----: |
-| 1. | [Getting introduced to data analytics libraries in Python and R](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/DAV_Exp_1_Exploring_Data_Analytics_Python_R.ipynb) | LO1 |
-| 2. | [Simple Linear Regression in Python and R.](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/DAV_Exp_2_Simple_Linear_Regression_Python_R.ipynb) | LO2 |
-| 3. | [Multiple Linear Regression in Python and R.](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/DAV_Exp_3_Multiple_Linear_Regression_Python_R.ipynb) | LO2 |
+| 1. | [Getting introduced to data analytics libraries in Python and R](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/Experiments/Experiment_1.md) | LO1 |
+| 2. | [Simple Linear Regression in Python and R.](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/Experiments/Experiment_2.md) | LO2 |
+| 3. | [Multiple Linear Regression in Python and R.](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/Experiments/Experiment_3.md) | LO2 |
 | 4. | Time Series Analysis in Python | LO3 |
 | 5. | Implementation of ARIMA model in python | LO3 |
 | 6. | Implementation of Time series Decomposition and ACF and PACF | LO3 |
@@ -23,7 +23,7 @@ At the end of the course, students will be able to
 | 8. | Set Up a D3.js Environment, Select Elements in D3, Modify Elements in D3,Data Loading in D3 | LO5, LO6 |
 | 9. | Create a World Map with d3.js |LO5, LO6 | 
 | 10. | Event Handling with D3.js | LO5, LO6 |
-| 11. | [Data Visualization using Python and R Libraries.](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/Experiments/Experiment_11.md#experiment---11-explore-data-visualization-libraries-in-python-and-r) | LO5, LO6 |
+| 11. | [Data Visualization using Python and R Libraries.](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/Experiments/Experiment_11.md) | LO5, LO6 |
 
 **Note** : $ - Newly added experiment to map LO4
 

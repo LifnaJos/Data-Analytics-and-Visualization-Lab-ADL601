@@ -24,7 +24,7 @@
 ## Theory to be written:
 1. Why do we need to study Simple Linear Regression?
 2. Write the equation for Simple Linear Regression.
-3. **Solve**: The following measurements have been obtained in a study. It is expected that the response variable y be described by the independent variables x1 and x2. Calculate the parameter estimates bo, b1.   
+3. **Solve**: The iodine value (x) is the amount of iodine necessary to saturate a sample of 100 g of oil.  Calculate the parameter estimates bo, b1.   
    ![SLR Problem](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/Experiments/SLR_Problem.png)
 
 ## Outcome :

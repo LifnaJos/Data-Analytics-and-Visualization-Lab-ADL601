@@ -33,7 +33,7 @@
 1. Explore 5 Python Text Analytics Libraries in Python and write their features & applications.
 2. Explore 5 Python Text Analytics Libraries in R and write their features & applications.
 3. Steps involved in Text Analytics
-4. Benefits of Text Analytics5. 
+4. Benefits of Text Analytics
 
 ## Outcome :
 * Identified the Text Analytics Libraries in Python and R

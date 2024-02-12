@@ -45,3 +45,4 @@
 * [Ultimate guide to deal with Text Data (using Python) – for Data Scientists and Engineers](https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python/)
 * [Text Mining in Python: Steps and Examples](https://www.kdnuggets.com/2020/05/text-mining-python-steps-examples.html)
 * [Text Analytics Complete Tutorial](https://www.youtube.com/watch?v=bZoC-UW50sI&list=PLH6mU1kedUy-xjgiuvqMkVn8npK0TGAv5)
+* [Sentiment Analysis Using Python](https://www.analyticsvidhya.com/blog/2022/07/sentiment-analysis-using-python/)

@@ -33,6 +33,10 @@
 * Performed Simple Linear Regression using the Libraries in Python and R
 
 ## Online Resources
+* [Simple Linear Regression problems - University of Colorado Boulder](https://www.colorado.edu/amath/sites/default/files/attached-files/ch12_0.pdf)
+* [Simple Linear Regression Problems - The Technical University of Denmark](https://02402.compute.dtu.dk/enotes/solutions-chapter5.pdf)
+* [Simple Linear Regression Problems - North Dakota State University](https://www.ndsu.edu/faculty/horsley/Reg_revised.pdf)
+* [Simple Linear regression - University of Florida](https://users.stat.ufl.edu/~winner/sta6166/Linear_Regression_solutions.pdf)
 * [Simple Linear Regression - Medium](https://medium.com/@shuv.sdr/simple-linear-regression-in-python-a0069b325bf8)
 * [Linear Regression in Python - Real Python](https://realpython.com/linear-regression-in-python/)
 * [Linear Regression - W3 Schools](https://www.w3schools.com/python/python_ml_linear_regression.asp)

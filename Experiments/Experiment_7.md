@@ -1,6 +1,7 @@
 # Experiment - 7: Perform the steps involved in Text Analytics in Python & R
 
-## Lab Outcomes (LO): Design Text Analytics Application on a given data set. (LO4)
+## Lab Outcomes (LO): 
+* Design Text Analytics Application on a given data set. (LO4)
 
 ## Task to be performed :
 1. Explore Top-5 Text Analytics Libraries in Python (w.r.t Features & Applications)

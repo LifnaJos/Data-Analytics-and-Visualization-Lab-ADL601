@@ -6,7 +6,7 @@
 ## Task to be performed :
 1. Explore Top-5 Text Analytics Libraries in Python (w.r.t Features & Applications)
 2. Explore Top-5 Text Analytics Libraries in R (w.r.t Features & Applications)
-3. Perform the following experiments using Python
+3. Perform the following experiments using Python & R
 - Tokenization (Sentence & Word)
 - Frequency Distribution
 - Remove stopwords & punctuations
@@ -14,16 +14,7 @@
 - Part of Speech tagging
 - Named Entity Recognization
 - Scrape data from a website
-4. Perform Sentiment Analysis on Tweets in R
-  - Set up the access between R and Twitter
-  - Clean Twitter Data and create a word cloud of tweets
-  - Analyze the tweets in R
-  - Analyze sentiments with Boxplot Chart
-  - Gather Twitter details and statistics
-  - Gather tweets from a public user account
-  - Gather trends data from Twitter
-  - Visualize Twitter followers using twitterMap
-5. Prepare a document with the Aim, Tasks performed, Program, Output, and Conclusion.
+4. Prepare a document with the Aim, Tasks performed, Program, Output, and Conclusion.
 
 ## Tools & Libraries to be explored
 * Python Libraries: nltk, scattertext, SpaCy, TextBlob, sklearn, pandas, numpy

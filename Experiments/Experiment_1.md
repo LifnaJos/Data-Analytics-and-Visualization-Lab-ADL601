@@ -14,6 +14,10 @@
 
 * R Libraries: [dplyr](https://www.listendata.com/2016/08/dplyr-tutorial.html), [tidyr](https://tidyr.tidyverse.org/), [readr](https://readr.tidyverse.org/), [stringr](https://cran.r-project.org/web/packages/stringr/vignettes/stringr.html), [ggplot2](https://r-statistics.co/Complete-Ggplot2-Tutorial-Part1-With-R-Code.html), [lubridate](https://cran.r-project.org/web/packages/lubridate/vignettes/lubridate.html), [jsonlite](https://cran.r-project.org/web/packages/jsonlite/vignettes/json-aaquickstart.html), [Shiny](https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html), [tseries](https://www.simplilearn.com/tutorials/data-science-tutorial/time-series-forecasting-in-r), [Prophet](https://medium.com/dropout-analytics/intro-to-prophet-r-7f650f86adc7)
 
+## Theory to be written:
+1. Explore 5 Python Data Analytics Libraries in Python and write their features & applications.
+2. Explore 5 Python Data Analytics Libraries in R and write their features & applications.
+
 ## Outcome :
 * Identified the Data Analytics Libraries in Python and R
 * Performed simple experiments with these libraries in Python and R

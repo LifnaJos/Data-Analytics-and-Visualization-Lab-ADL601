@@ -16,8 +16,8 @@
 * R Libararies : ggplot2, Lattice, highcharter, Leaflet, RColorBrewer, Plotly, sunburstR, RGL, dygraphs
 
 ## Theory to be written:
-1. Explore 5 Python Data Visualization Libraries in Python and write their features & applications.
-2. Explore 5 Python Data VisualizationLibraries in R and write their features & applications.
+1. Write the features & applications of 5 Data Visualization Libraries in Python.
+2. Write the features & applications of 5 Data Visualization Libraries in R.
 
 ## Outcome :
 * Identified the Data Visualziation Libraries in Python and R

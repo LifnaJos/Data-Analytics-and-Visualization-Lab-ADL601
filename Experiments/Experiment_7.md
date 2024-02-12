@@ -32,6 +32,7 @@
 * Performed simple experiments with these libraries in Python and R
 
 ## Online Resources
+* [Data Preprocessing Techniques - Google Colab](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/DAV_Colab_Notebooks/Data_Preprocessing_techniques.ipynb)
 * [Text Analysis - University of Pennsylvania](https://guides.library.upenn.edu/penntdm/python)
 * [Text Analytics for Beginners using Python NLTK](https://machinelearninggeek.com/text-analytics-for-beginners-using-python-nltk/)
 * [Ultimate guide to deal with Text Data (using Python) – for Data Scientists and Engineers](https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python/)

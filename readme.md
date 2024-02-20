@@ -13,6 +13,7 @@ At the end of the course, students will be able to
 ## Lab Experiments
 | No | Name of Experiment | LO's |
 | :--: | ------------------ | :----: |
+| 0. | [Mini-Project]() | LO2, LO3| 
 | 1. | [Getting introduced to data analytics libraries in Python and R](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/Experiments/Experiment_1.md) | LO1 |
 | 2. | [Simple Linear Regression in Python and R.](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/Experiments/Experiment_2.md) | LO2 |
 | 3. | [Multiple Linear Regression in Python and R.](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/Experiments/Experiment_3.md) | LO2 |
@@ -24,6 +25,7 @@ At the end of the course, students will be able to
 | 9. | Create a World Map with d3.js |LO5, LO6 | 
 | 10. | Event Handling with D3.js | LO5, LO6 |
 | 11. | [Data Visualization using Python and R Libraries.](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/Experiments/Experiment_11.md) | LO5, LO6 |
+
 
 **Note** : $ - Newly added experiment to map LO4
 

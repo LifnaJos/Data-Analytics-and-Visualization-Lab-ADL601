@@ -1,7 +1,11 @@
 ## Aim : Perform the data Analytics & Visualization techbniques on a selected domain
 ## LO's : 
-* (LO2)
-* (LO3)
+1. Explore various data analytics Libraries in R and Python.
+2. Implement various Regression techniques for prediction.
+3. Build various time series models on a given data set.
+4. Design Text Analytics Application on a given data set.
+5. Implement visualization techniques to given data sets using R .
+6. Implement visualization techniques to given data sets using Python.
 ## Tasks to be performed
 1. Form a Mini-Project group (atmost of 3 members).
 2. Identify a domain of interest.

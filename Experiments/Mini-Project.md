@@ -24,5 +24,6 @@
    - Experimental setup
    - Results & Discussions.
    - Conclusion
+8. The group needs to present the findings in the class. 
 ## Online Resources
 * [How to read a paper - Prof. S. Keshav](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)

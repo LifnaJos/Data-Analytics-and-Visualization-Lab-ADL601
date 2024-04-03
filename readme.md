@@ -1,5 +1,6 @@
 # [Course : Data Analytics Visualization Lab (ADL601)](https://drive.google.com/file/d/161F1ADE5tG6hq_4epCpiciHqv8opUMfl/view?usp=drive_link)
 Lab Instructor : [Lifna C S](mailto:lifna.cs@ves.ac.in)
+
 [Index Page](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/Experiments/ADC601_DAV_Index.pdf)
 
 ## Lab Outcomes (LO's)

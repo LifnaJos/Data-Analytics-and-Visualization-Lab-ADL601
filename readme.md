@@ -3,6 +3,8 @@ Lab Instructor : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 
 [Index Page](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/Experiments/ADC601_DAV_Index.pdf)
 
+[Practical Questions](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/Experiments/ADC601_DAV_PracticalQuestions.pdf)
+
 ## Lab Outcomes (LO's)
 At the end of the course, students will be able to
 1. Explore various data analytics Libraries in R and Python.

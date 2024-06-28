@@ -5,14 +5,14 @@
 ## Lab Outcomes (LO):
 * Build various time series models on a given data set. (LO3)
 ## Task to be performed :
-1. Refer the Google Colab Notebook for [Module 3 - Times Series Analysis using Python](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/main/M3_DAV.ipynb)
+1. Refer the Google Colab Notebook for [Times Series Analysis using Python](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/main/M3_DAV.ipynb)
 2. Select a Time Series Data from [Kaggle](https://www.kaggle.com/datasets/?search=Time+series)
 3. Experiment the data with the code from the Google Colab and derive meaningful conclusions from your dataset
 4. Prepare a Colab Notebook with the Aim, Tasks performed, Program, Output, and Conclusion and upload the Notebook in your Github Repositiry.
 5. Prepare a handwritten wrtieup with Aim, Theory and Conclusion.
 
 ## Tools & Libraries to be explored
-* Python Libraries: scikit-learn, matplotlib, numpy, pandas
+* Python Libraries: statsmodels, matplotlib, numpy, pandas,math, sklearn,pmdarima
 
 ## Theory to be written:
 1. Significance of Time Series 

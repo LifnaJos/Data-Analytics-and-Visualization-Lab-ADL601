@@ -21,9 +21,9 @@ At the end of the course, students will be able to
 | 1. | [Getting introduced to data analytics libraries in Python and R](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/Experiments/Experiment_1.md) | LO1 |
 | 2. | [Simple Linear Regression in Python and R.](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/Experiments/Experiment_2.md) | LO2 |
 | 3. | [Multiple Linear Regression in Python and R.](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/Experiments/Experiment_3.md) | LO2 |
-| 4. | [Time Series Analysis in Python]() | LO3 |
-| 5. | [Implementation of ARIMA model in python]() | LO3 |
-| 6. | [Implementation of Time series Decomposition and ACF and PACF]() | LO3 |
+| 4. | [Time Series Analysis in Python](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/Experiments/Experiment_4_5_6.md) | LO3 |
+| 5. | [Implementation of ARIMA model in python](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/Experiments/Experiment_4_5_6.md) | LO3 |
+| 6. | [Implementation of Time series Decomposition and ACF and PACF](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/Experiments/Experiment_4_5_6.md) | LO3 |
 | $ 7. | [Perform the steps involved in Text Analytics in Python & R](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/Experiments/Experiment_7.md) | LO4 |
 | 8. | Set Up a D3.js Environment, Select Elements in D3, Modify Elements in D3,Data Loading in D3 | LO5, LO6 |
 | 9. | Create a World Map with d3.js |LO5, LO6 | 

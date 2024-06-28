@@ -1,7 +1,7 @@
 # [Course : Data Analytics Visualization Lab (ADL601)](https://drive.google.com/file/d/161F1ADE5tG6hq_4epCpiciHqv8opUMfl/view?usp=drive_link)
-| Lab Instructor | Email-id | Lab Index Page | Practical Questions |
-| :-------------:| :--------: | :--------------: | :-------------------: |
-| [Lifna C S](https://www.linkedin.com/in/lifna-c-s-94015678/) | lifna.cs@ves.ac.in | [2023-24](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/Experiments/ADC601_DAV_Index.pdf) | [2023-24](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/Experiments/ADC601_DAV_PracticalQuestions.pdf) |
+| Lab Instructor | Email-id | Lab Index Page | Practical Questions | Theory |
+| :-------------:| :--------: | :--------------: | :-------------------: | :------------: |
+| [Lifna C S](https://www.linkedin.com/in/lifna-c-s-94015678/) | lifna.cs@ves.ac.in | [2023-24](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/Experiments/ADC601_DAV_Index.pdf) | [2023-24](https://github.com/LifnaJos/ADL601-Data-Analytics-and-Visualization-Lab/blob/main/Experiments/ADC601_DAV_PracticalQuestions.pdf) | [Lnik](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization) |
 
 ## Lab Outcomes (LO's)
 At the end of the course, students will be able to
@@ -43,6 +43,6 @@ At the end of the course, students will be able to
 4. [https://www.coursera.org/specializations/data-science-python](https://www.coursera.org/specializations/data-science-python)
 5. [https://www.geeksforgeeks.org/data-visualization-in-r/](https://www.geeksforgeeks.org/data-visualization-in-r/)
 6. [https://towardsdatascience.com/introduction-to-arima-for-time-series-forecasting-](https://towardsdatascience.com/introduction-to-arima-for-time-series-forecasting-)
-
+   
 ## Acknowledgements
 * This material was prepared as a part of the Course - **Data Analytics and Visualization Lab** offered by the  Department of Artificial Intelligence & Data Science, (VES Institute of Technology - An Autonomous Institute, Affiliated with the University of Mumbai) to the Third Year Artificial Intelligence & Data Science Students.
